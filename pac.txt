@@ -996,6 +996,8 @@ var white_domains = {"biz":{
 "infzm":1,
 "invitemedia":1,
 "ip138":1,
+"ip":1,
+"ipip":1,
 "ipadown":1,
 "ipincai":1,
 "ipinyou":1,
